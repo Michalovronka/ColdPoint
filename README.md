@@ -6,7 +6,7 @@
  WASD
 #### Weapon
  Shooting - Left-click <br />
- Picking up Weapon
+ Picking up Weapon - Right-click
    
 ## Objective
  Win the snowball shootout against cartel so you can stop them from distributing drugs to kids through toys <br />
