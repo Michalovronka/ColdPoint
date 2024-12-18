@@ -4,8 +4,8 @@
 #### Movement
  WASD
 #### Weapon
- Shooting - Left-click__
+ Shooting - Left-click <br />
  Picking up Weapon
 ## Objective
- Winning the snowball shootout against cartel so you can stop them from distributing drugs to kids through toys__
+ Winning the snowball shootout against cartel so you can stop them from distributing drugs to kids through toys <br />
  Gather as much combo as you can (although there is no reward for it)
